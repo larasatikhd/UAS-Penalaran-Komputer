@@ -1,5 +1,5 @@
 # UAS-Penalaran-Komputer
-Repositori ini merupakan bagian dari tugas akhir UAS mata kuliah **Penalaran Komputer**. Proyek ini membangun sistem **Case-Based Reasoning (CBR)** untuk membantu retrieval dan prediksi solusi dari kasus hukum berdasarkan teks putusan.
+Repositori ini merupakan bagian dari tugas akhir UAS mata kuliah **Penalaran Komputer**. Proyek ini membangun sistem **Case-Based Reasoning (CBR)** untuk membantu retrieval dan prediksi solusi dari kasus hukum berdasarkan teks putusan pidana penganiayaan: Studi Kasus Putusan Mahkama Agung Tahun 2012 
 
 Sistem dibangun menggunakan dua pendekatan representasi vektor:  
 - **TF-IDF** (Text-based retrieval)  
