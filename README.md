@@ -25,7 +25,7 @@ requirements.txt            # Daftar library yang dibutuhkan
 
 ### 1. Clone repositori
 ```bash
-git clone https://github.com/username/UAS-Penalaran-Komputer.git
+git clone https://github.com/larasatikhd/UAS-Penalaran-Komputer.git
 cd UAS-Penalaran-Komputer
 ```
 
